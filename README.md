@@ -1,4 +1,4 @@
-# **Python Project for Measuring Execution Time**
+# **Python Project for Measuring Execution Time of a Programe**
 
 
 
